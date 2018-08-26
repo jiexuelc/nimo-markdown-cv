@@ -7,20 +7,20 @@ pdf: true
 
 <div id="webaddress">
 <i class="fi-home" style="margin-left:1em"></i>
-<a href="http://www.cs.cmu.edu/~woden" style="margin-left:0.5em">cs.cmu.edu/~woden</a>
+<a href="四川宜宾" style="margin-left:0.5em">cs.cmu.edu/~woden</a>
 <i class="fi-mail" style="margin-left:1em"></i>
-<a href="woden@cs.cmu.edu" style="margin-left:0.5em">woden@cs.cmu.edu</a>
+<a href="jiexuelc@outlook.com" style="margin-left:0.5em">woden@cs.cmu.edu</a>
 </div>
 
 ## Education
 
-### __Carnegie Mellon University__ `2018.9 -`
+### __宁波大学__ `2016.9 -`
 ```
 Pittsburgh, PA
 ```
 - Ph.D. in Software Engineering
 
-### __Columbia University__ `2016.9 - 2018.5`
+### __华北科技学院__ `2012.9 - 2016.6`
 ```
 New York, NY
 ```
