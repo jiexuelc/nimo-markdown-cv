@@ -1,38 +1,38 @@
 ---
 layout: cv
-title: Wode "Nimo" Ni
+title: 李超
 pdf: true
 ---
-# chao __Li__
+#  __李 超__
 
 <div id="webaddress">
 <i class="fi-home" style="margin-left:1em"></i>
-<a href="四川宜宾" style="margin-left:0.5em">cs.cmu.edu/~woden</a>
+<a href="https://ditu.amap.com/place/B033F00YYN" style="margin-left:0.5em">四川宜宾</a>
 <i class="fi-mail" style="margin-left:1em"></i>
-<a href="jiexuelc@outlook.com" style="margin-left:0.5em">woden@cs.cmu.edu</a>
+<a href="jiexuelc@outlook.com" style="margin-left:0.5em">jiexuelc@outlook.com</a>
+<i class="fi-mobile" style="margin-left:1em"></i>
+<a href="(+86)18067345847" style="margin-left:0.5em">18067345847</a>
+<i class="fi-social-twitter" style="margin-left:1em"></i>
+<a href="jiexuelc" style="margin-left:0.5em">jiexuelc</a>
+
+
 </div>
 
-## Education
+## 教育背景Education
 
-### __宁波大学__ `2016.9 -`
+### __宁波大学__ `2016.9 - 至今`
 ```
-Pittsburgh, PA
+*通信与信息系统*
 ```
-- Ph.D. in Software Engineering
++ 荣誉:校一等奖学金,二等奖学金,三好研究生,优秀志愿者等
++ 学术:
+   - 校一等奖学金,二等奖学金,三好研究生,优秀志愿者等
 
 ### __华北科技学院__ `2012.9 - 2016.6`
 ```
-New York, NY
+*工学学士学位，电子信息工程*
 ```
-- B.S. in Computer Science, _Magna Cum Laude_
-- Vision, Graphics track
-
-### __Dickinson College__ `2013.9 - 2016.5`
-```
-Carlisle, PA
-```
-- B.S. in Computer Science, _Summa Cum Laude_
-- Computer Science Departmental Honors
+- 电子信息工程
 
 ## Publications
 
