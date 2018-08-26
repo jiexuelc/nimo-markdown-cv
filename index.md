@@ -3,7 +3,7 @@ layout: cv
 title: Wode "Nimo" Ni
 pdf: true
 ---
-# Wode __Ni__
+# chao __Li__
 
 <div id="webaddress">
 <i class="fi-home" style="margin-left:1em"></i>
